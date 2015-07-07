@@ -1,0 +1,2 @@
+# shopcc
+a python shop
